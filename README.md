@@ -1,4 +1,43 @@
-## Hi there 👋
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Salve Dev's</h1></summary>
+</div>
+
+<!-- Presentation -->
+<p>
+  Olá 👋, Eliandro Silva
+Empresa local
+🖥Trabalho como Empreendedor Digital.
+Produção publicitária,  Desenvolvedor de software.
+#marketingdigital
+#empreendedorismo
+ 
+
+  - 🌱 Atualmente estou estudando Desenvolvedor de software no Senac Hub Academy <img align="center" alt="html5" src="https://img.shields.io/badge/DEV-193A3E?style=for-the -badge&logo=edx&logoColor=branco" />
+
+  - 🔭 Estou em busca da minha oportunidade de emprego. Meu sonho é um dia trabalhar com IA e Machine Learning.
+</p>
+
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 Mais sobre mim</summary>
+
+ - 💬Tenho 46 anos, atualmente moro em Campo Grande -  MS no Brasil. Tenho inicial em inglês e tenho experiência com SQL, Python, Análise de Dados, Visualização de Dados e Machine Learning. Também sou criador de conteúdo no YouTube desde 2016, tatuador de 2004, em meados de 2019 entrei no curso de Produção Publicitária onde espandi meus conhecimentos em Marketing Didital o que me ajudou a desenvolver habilidades importantes como criatividade, comunicação, marketing, Web designer, capacidade analítica, gestão de comunidades e mídias sociais.
+
+  - ⚡Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
+</details>
+
+
+<!-- Links -->
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@clickbsdigital)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eliandrosilva.pro/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clickbsdigital/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
+
+<!-- GithubStats -->
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+
 
 <!--
 **ClickBSdigital/ClickBSdigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
