@@ -41,9 +41,7 @@ Produção publicitária,  Desenvolvedor de software.
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/clickbsdigital/clickbsdigital/output/snake.svg" alt="Snake animation" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?ClickBSdigital=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ###
 
 <div align="center">
