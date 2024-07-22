@@ -41,11 +41,9 @@ Produção publicitária,  Desenvolvedor de software.
 
 ###
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ClickBSdigital/ClickBSdigital/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ClickBSdigital/ClickBSdigital/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ClickBSdigital/ClickBSdigital/output/github-contribution-grid-snake.svg">
-</picture>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ClickBSdigital/ClickBSdigital/output/snake.svg" alt="Snake animation" />
 ###
 
 <div align="center">
