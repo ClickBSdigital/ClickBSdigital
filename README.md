@@ -43,7 +43,7 @@ Produção publicitária,  Desenvolvedor de software.
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ClickBSdigital/ClickBSdigital/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/clickbsdigital/clickbsdigital/output/snake.svg" alt="Snake animation" />
 ###
 
 <div align="center">
