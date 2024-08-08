@@ -41,7 +41,7 @@ Produção publicitária,  Desenvolvedor de software.
 
 ###
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?ClickBSdigital=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?ClickBSdigital=anuraghazra&repo=github-readme-stats)](https://github.com/ClickBSdigital/github-readme-stats)
 ###
 
 <div align="center">
