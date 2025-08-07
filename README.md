@@ -52,12 +52,6 @@ Produção publicitária,  Desenvolvedor de software.
 ###
 ### 📈 GitHub Activity Graph:
 
-<!--   green snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ClickBSdigital/ClickBSdigital/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ClickBSdigital/ClickBSdigital/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ClickBSdigital/ClickBSdigital/output/github-contribution-grid-snake.svg">
-</picture>
 
 <!--   stats + languages -->
 | .                                                                                                                                       | .                                                                                                                         |
@@ -65,10 +59,15 @@ Produção publicitária,  Desenvolvedor de software.
 | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=ClickBSdigital&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ClickBSdigital&theme=radical&layout=compact) |
 
 
-<img
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/ClickBSdigital/ClickBSdigital/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+<!--   green snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ClickBSdigital/ClickBSdigital/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ClickBSdigital/ClickBSdigital/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ClickBSdigital/ClickBSdigital/output/github-contribution-grid-snake.svg">
+</picture>
+
 **ClickBSdigital/ClickBSdigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ###
