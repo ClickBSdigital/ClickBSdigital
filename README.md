@@ -53,7 +53,12 @@ Produção publicitária,  Desenvolvedor de software.
 ### 📈 GitHub Activity Graph:
 
 <!--   green snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/ClickBSdigital/ClickBSdigital/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ClickBSdigital/ClickBSdigital/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ClickBSdigital/ClickBSdigital/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ClickBSdigital/ClickBSdigital/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!--   stats + languages -->
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
